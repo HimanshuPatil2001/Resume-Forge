@@ -1,0 +1,7 @@
+{
+  "provider": "groq",
+  "apiKey": "",
+  "model": "openai/gpt-oss-120b",
+  "temperature": 0.2,
+  "baseUrl": "https://api.groq.com/openai/v1"
+}

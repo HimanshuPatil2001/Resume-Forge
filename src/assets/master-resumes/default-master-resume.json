@@ -1,0 +1,288 @@
+{
+  "personalInfo": {
+    "fullName": "John Developer",
+    "professionalTitle": "Senior Full Stack & .NET Developer",
+    "email": "john.developer@example.com",
+    "phone": "+1 (555) 234-5678",
+    "location": "Austin, TX",
+    "linkedin": "https://linkedin.com/in/johndeveloper-sample",
+    "github": "https://github.com/johndeveloper-sample",
+    "portfolio": "https://johndeveloper.dev",
+    "summary": "Senior Software Engineer with 6+ years of experience designing and architecting enterprise web applications using .NET Core, C#, ASP.NET Core, Angular, SQL Server, and REST APIs. Skilled in modernizing legacy architectures, building high-throughput microservices, and leading frontend development with Angular."
+  },
+  "professionalExperience": [
+    {
+      "id": "exp-1",
+      "company": "TechCorp Solutions",
+      "role": "Senior Software Engineer",
+      "location": "Austin, TX",
+      "startDate": "2022-03",
+      "endDate": "Present",
+      "currentlyWorking": true,
+      "description": "Lead backend and frontend development for enterprise financial processing platform handling $50M+ annual volume.",
+      "responsibilities": [
+        "Architected and implemented high-throughput RESTful Web APIs using C#, ASP.NET Core 8.0, and Entity Framework Core.",
+        "Designed modular frontend single-page application components using Angular 14+, RxJS state management, and custom UI modules.",
+        "Optimized complex SQL Server stored procedures and database queries, reducing average API response latency by 42%.",
+        "Implemented background message processing pipeline with Hangfire and Redis cache for asynchronous report generation.",
+        "Mentored 4 junior developers in C# clean architecture, Angular best practices, and unit testing using xUnit and Jasmine."
+      ],
+      "achievements": [
+        "Reduced database CPU utilization by 35% through indexing strategies and query refactoring.",
+        "Spearheaded transition from legacy monolithic WebForms application to Angular SPA with ASP.NET Core Web API backend."
+      ],
+      "technologies": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Core",
+        "Angular",
+        "SQL Server",
+        "REST API",
+        "Entity Framework Core",
+        "RxJS",
+        "Hangfire",
+        "Redis",
+        "xUnit"
+      ]
+    },
+    {
+      "id": "exp-2",
+      "company": "Apex Digital Systems",
+      "role": "Software Developer",
+      "location": "Dallas, TX",
+      "startDate": "2019-06",
+      "endDate": "2022-02",
+      "currentlyWorking": false,
+      "description": "Full stack development across healthcare client projects using .NET and Angular.",
+      "responsibilities": [
+        "Developed REST APIs using C# and ASP.NET Web API for electronic health record (EHR) integrations.",
+        "Built dynamic dashboard user interfaces with Angular, TypeScript, HTML5, and Bootstrap for healthcare analytics.",
+        "Integrated third-party payment gateways and secure authentication using OAuth2 / OpenID Connect and JWT.",
+        "Authored comprehensive unit and integration tests using NUnit and Moq achieving 85%+ code coverage."
+      ],
+      "achievements": [
+        "Delivered HIPAA-compliant patient portal 2 weeks ahead of schedule for a major regional hospital network.",
+        "Automated FTP batch file processing module handling 100k daily records."
+      ],
+      "technologies": [
+        "C#",
+        "ASP.NET Core",
+        "ASP.NET Web API",
+        "Angular",
+        "TypeScript",
+        "SQL Server",
+        "Bootstrap",
+        "OAuth2",
+        "JWT",
+        "NUnit",
+        "FTP"
+      ]
+    },
+    {
+      "id": "exp-3",
+      "company": "Innovate Tech Labs",
+      "role": "Junior Web Developer",
+      "location": "Houston, TX",
+      "startDate": "2018-01",
+      "endDate": "2019-05",
+      "currentlyWorking": false,
+      "description": "Frontend and backend development for e-commerce and internal management portals.",
+      "responsibilities": [
+        "Created responsive web interfaces using HTML5, CSS3, JavaScript (ES6+), and Angular.",
+        "Built relational database tables, indexes, and stored procedures in Microsoft SQL Server.",
+        "Collaborated with UI/UX designers to translate Figma mockups into reusable component libraries."
+      ],
+      "achievements": [
+        "Refactored legacy customer checkout portal, reducing cart abandonment rate by 14%."
+      ],
+      "technologies": [
+        "C#",
+        "ASP.NET MVC",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "SQL Server",
+        "jQuery",
+        "Git"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "name": "Employee Management & Payroll System",
+      "description": "Enterprise web application for employee onboarding, leave tracking, and payroll processing.",
+      "role": "Lead Full Stack Developer",
+      "technologies": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Core",
+        "Angular",
+        "SQL Server",
+        "Entity Framework Core"
+      ],
+      "responsibilities": [
+        "Built secure REST API endpoints with role-based access control (RBAC).",
+        "Developed interactive Angular UI with real-time status notifications and data grid filtering."
+      ],
+      "achievements": [
+        "Used by 1,200+ active employees across 3 regional branches."
+      ],
+      "githubUrl": "https://github.com/johndeveloper-sample/employee-payroll-sys",
+      "liveUrl": "https://payroll-demo.johndeveloper.dev"
+    },
+    {
+      "id": "proj-2",
+      "name": "Invoice Processing & Automation Hub",
+      "description": "Automated invoice parsing, verification, and payment processing workflow system.",
+      "role": "Backend Architect",
+      "technologies": [
+        "C#",
+        "ASP.NET Core",
+        "SQL Server",
+        "Hangfire",
+        "REST API"
+      ],
+      "responsibilities": [
+        "Designed background queue infrastructure processing PDF invoices asynchronously.",
+        "Exposed secure REST endpoints for ERP system synchronization."
+      ],
+      "achievements": [
+        "Automated 90% of manual invoice entry tasks for finance team."
+      ],
+      "githubUrl": "https://github.com/johndeveloper-sample/invoice-automation",
+      "liveUrl": ""
+    }
+  ],
+  "skills": {
+    "programmingLanguages": [
+      "C#",
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "SQL",
+      "HTML5",
+      "CSS3/SCSS"
+    ],
+    "frameworks": [
+      ".NET Core",
+      "ASP.NET Core",
+      "ASP.NET Web API",
+      "Angular",
+      "Entity Framework Core"
+    ],
+    "frontend": [
+      "Angular 14+",
+      "RxJS",
+      "TypeScript",
+      "HTML5",
+      "SCSS",
+      "Bootstrap",
+      "Angular Material",
+      "JSON"
+    ],
+    "backend": [
+      "C#",
+      ".NET Core 6.0/8.0",
+      "ASP.NET Core",
+      "REST APIs",
+      "LINQ",
+      "Entity Framework",
+      "Hangfire",
+      "Microservices"
+    ],
+    "databases": [
+      "Microsoft SQL Server",
+      "T-SQL",
+      "Redis"
+    ],
+    "cloud": [
+      "Azure App Services",
+      "Azure SQL Database",
+      "IIS Host"
+    ],
+    "devops": [
+      "Git",
+      "GitHub",
+      "CI/CD Pipelines",
+      "Docker Basics"
+    ],
+    "aiMl": [
+      "OpenAI / Groq API Integration",
+      "Prompt Engineering"
+    ],
+    "tools": [
+      "Visual Studio",
+      "VS Code",
+      "Postman",
+      "SQL Server Management Studio (SSMS)",
+      "Figma",
+      "Swagger/OpenAPI"
+    ],
+    "other": [
+      "Agile/Scrum",
+      "Object-Oriented Programming (OOP)",
+      "Clean Architecture",
+      "SOLID Principles",
+      "Unit Testing"
+    ]
+  },
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "Master of Computer Applications (MCA)",
+      "institution": "Texas State University",
+      "location": "San Marcos, TX",
+      "startDate": "2016-08",
+      "endDate": "2018-05",
+      "grade": "3.8 / 4.0 GPA"
+    },
+    {
+      "id": "edu-2",
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Texas",
+      "location": "Austin, TX",
+      "startDate": "2012-08",
+      "endDate": "2016-05",
+      "grade": "3.7 / 4.0 GPA"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-1",
+      "name": "Microsoft Certified: Azure Developer Associate (AZ-204)",
+      "issuer": "Microsoft",
+      "date": "2023-04",
+      "credentialUrl": "https://learn.microsoft.com/credentials/sample-az-204"
+    },
+    {
+      "id": "cert-2",
+      "name": "Meta Front-End Developer Professional Certificate",
+      "issuer": "Coursera / Meta",
+      "date": "2021-11",
+      "credentialUrl": "https://coursera.org/verify/sample-meta-frontend"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "title": "Company Innovation Excellence Award",
+      "description": "Awarded for architecting high-efficiency SQL caching system at TechCorp Solutions.",
+      "date": "2023-12"
+    },
+    {
+      "id": "ach-2",
+      "title": "Top Performer - Tech Hackathon 2021",
+      "description": "First place out of 25 teams for developing automated hospital bed management portal.",
+      "date": "2021-10"
+    }
+  ],
+  "internships": [],
+  "publications": [],
+  "additionalInformation": [
+    {
+      "id": "add-1",
+      "category": "Languages",
+      "details": "English (Fluent / Native)"
+    }
+  ]
+}
